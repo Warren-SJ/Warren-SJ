@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Warren-SJ
-- 👀 I’m interested in processor design and computer architecture
+- 👀 I’m interested in processor design and computer architecture specifically for Machine Learning applications
 - 🌱 I’m currently learning Electronics and Telecommunications Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on modern processor design and ML related projects
 - 📫 How to reach me ...
 
 <!---
