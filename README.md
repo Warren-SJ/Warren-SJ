@@ -5,7 +5,7 @@
 - 📫 How to reach me: Contact me at warrenjayakumar@outlook.com
 
 <div id="header" align="center">
-  <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZCv_BPAhKZagCfrjLqGKWpbooGcHqT5WeI33pyplOKnMVDO2Bg9ePtsoopS1nYHk-jmvmDb3QQ1QiFakTNng9hNkqRyL6Y_RA=s1600-rw-v1" width=250/>
+  <img src="https://drive.google.com/uc?export=download&id=1LxbXKeyPLqyW8J-lAXO5utsbGzgMOYbq" width=250/>
 </div>
 
 <!---
