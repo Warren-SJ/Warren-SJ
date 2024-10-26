@@ -1,11 +1,4 @@
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Warren-SJ)](https://git.io/streak-stats)
-  <br>
-  <br>
-  <br>
-  <br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warren-SJ&show_icons=true&theme=dark)
-
 - 👋 Hi, I’m Warren Jayakumar
 - 👀 I’m interested in processor design, computer architecture, and software optimization, especially for High Performance Computing Applications
 - 🌱 I’m currently learning Electronics and Telecommunications Engineering
