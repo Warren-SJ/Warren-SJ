@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Warren Jayakumar
-- 👀 I’m interested in processor design, computer architecture, and software optimization, especially for High Performance Computing Applications
+- 👀 I’m interested in processor design, computer architecture, generative AI, software optimization, especially for High Performance Computing Applications
 - 🌱 I’m currently learning Electronics and Telecommunications Engineering
 - 💞️ I’m looking to collaborate on modern processor design and ML related projects
 - 📫 How to reach me: Contact me at warrenjayakumar@outlook.com
